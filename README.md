@@ -1,3 +1,6 @@
+# Mudanças
+- Alterar para o contexto do quebra-galho
+
 ## App ainda incompleto, mas já funcional e compatível com diversos dispositivos
 
 ### Para rodar
